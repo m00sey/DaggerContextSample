@@ -1,11 +1,10 @@
 package com.example.daggersampleapp;
 
 import android.app.Application;
+import dagger.ObjectGraph;
 
 import java.util.Arrays;
 import java.util.List;
-
-import dagger.ObjectGraph;
 
 
 public class DaggerSampleApp extends Application {

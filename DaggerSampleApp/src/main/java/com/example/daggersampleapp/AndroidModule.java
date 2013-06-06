@@ -11,8 +11,8 @@ public class AndroidModule {
 
     private final DaggerSampleApp daggerSampleApp;
 
-    public AndroidModule(DaggerSampleApp findMeApp){
-        daggerSampleApp = findMeApp;
+    public AndroidModule(DaggerSampleApp daggerSampleApp){
+       this.daggerSampleApp = daggerSampleApp;
     }
 
     @Provides @Singleton @ForApplication Context provideApplicationContext(){
