@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370521001000 488 046f852f96bd970462ec765b58a472fa44853e4b /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$dimen.class
+1370520983000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/libs/android-support-v4.jar
+1370521001000 499 4059280029a79e28335d4fd6258a1981035d8b76 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$string.class
+1370521001000 363 1b958fd4c6fc9c613f4f24a1acadddd8268a95f8 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/BuildConfig.class
+1370521001000 367 ea8782f3ba9d5bb79c1c1227877c70cccde556f2 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$attr.class
+1370521001000 767 2c8e9f137595c25edb5da363f8b50a0b6efcde3a /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R.class
+1370521001000 434 79147277199e35caa0bdf22f794012ccc14c924c /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$drawable.class
+1370521001000 430 2effd188178fc5cbcd16c5f04606fe393c87efc2 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$layout.class
+1370521001000 835 41277abe3cbb1661bc255c93474a0ab40953ded6 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/MainActivity.class
+1370521001000 458 eba4035144d03d884e387c3ffcd1841ee21f76d1 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$style.class
+1370521001000 420 a57c38aac5099a04dea2a92d9765a2484a568a96 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$id.class
+1370521001000 415 3c1bd72778169d67cd991b11527f1d7ab0ee02a3 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/build/classes/debug/com/example/daggersampleapp/R$menu.class

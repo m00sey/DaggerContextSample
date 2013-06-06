@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370520983000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values/styles.xml
+1370520983000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values-v11/styles.xml
+1370520983000 9746 22310f42a1b884bef771c9131bf29f0d13422c9e /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/drawable-xhdpi/ic_launcher.png
+1370520983000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values-sw600dp/dimens.xml
+1370520983000 6571 5fa8c5ae3ad9199e6ff5db4429bd3a09c90e8c19 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/drawable-hdpi/ic_launcher.png
+1370520983000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/menu/main.xml
+1370520983000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values/dimens.xml
+1370520983000 243 2ca26add3ef35966cab9e5b40874165ad847e5e4 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values/strings.xml
+1370520983000 3619 6948ed4c5fb633c80074dfb24d9f5d0925d74bc9 /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/drawable-mdpi/ic_launcher.png
+1370520983000 18484 321067536255eac5246a7d2086957613a59ca33c /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/drawable-xxhdpi/ic_launcher.png
+1370520983000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values-sw720dp-land/dimens.xml
+1370520983000 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/layout/activity_main.xml
+1370520983000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/kevingriffin/dev/clients/did/DaggerSampleAppProject/DaggerSampleApp/src/main/res/values-v14/styles.xml
